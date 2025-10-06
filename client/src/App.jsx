@@ -1,11 +1,11 @@
 import { useState } from "react";
 import "./App.css";
-import Calculator from "./Pages/Calculator";
+import CalculatorApp from "./Pages/Calculator";
 
 function App() {
   return (
     <>
-      <Calculator />
+      <CalculatorApp />
     </>
   );
 }
